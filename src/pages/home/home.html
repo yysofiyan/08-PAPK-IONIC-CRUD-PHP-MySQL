@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic Blank
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+	  <ion-scroll scrollY="true" direction="xy" style="height: 100vh;">
+        <ion-list >
+            <ion-item tappable *ngFor="let a of data; let index = index" (click)="edit(a.id)" >
+                {{a.judul}} 
+            </ion-item>
+        </ion-list>
+    </ion-scroll>
+    <ion-fab bottom right>
+      <button ion-fab (click) = "add()" >Add</button>
+    </ion-fab>
+</ion-content>
+
+

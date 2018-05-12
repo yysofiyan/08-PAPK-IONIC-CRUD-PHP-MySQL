@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/macbookpromd313/Desktop/08-PAPK-REST-API/IonicCRUDPHP/platforms/android/CordovaLib/assets"/><source path="/Users/macbookpromd313/Desktop/08-PAPK-REST-API/IonicCRUDPHP/platforms/android/CordovaLib/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/macbookpromd313/Desktop/08-PAPK-REST-API/IonicCRUDPHP/platforms/android/CordovaLib/src/debug/assets"/></dataSet></merger>

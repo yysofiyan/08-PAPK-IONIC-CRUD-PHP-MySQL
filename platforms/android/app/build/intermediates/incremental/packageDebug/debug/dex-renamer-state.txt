@@ -1,0 +1,4 @@
+#Thu May 10 23:24:12 WIB 2018
+base.0=/Users/macbookpromd313/Desktop/08-PAPK-REST-API/IonicCRUDPHP/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/macbookpromd313/Desktop/08-PAPK-REST-API/IonicCRUDPHP/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
